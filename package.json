@@ -2,10 +2,10 @@
   "author": "Egor M. <egor@ixvar.com>",
   "name": "alexa",
   "description": "Amazon Alexa Web Information Service API",
-  "version": "0.0.1",
-  "homepage": "https://github.com/dsx/node-alexa",
+  "version": "0.0.1a",
+  "homepage": "https://github.com/ixvar/node-alexa",
   "repository": {
-    "url": "https://github.com/dsx/node-alexa.git"
+    "url": "https://github.com/ixvar/node-alexa.git"
   },
   "dependencies": {
       "underscore": ""
