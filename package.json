@@ -1,0 +1,20 @@
+{
+  "author": "Egor M. <dsx@droidnest.org>",
+  "name": "alexa",
+  "description": "Amazon Alexa Web Information Service API",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dsx/node-alexa",
+  "repository": {
+    "url": "https://github.com/dsx/node-alexa.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  }
+}

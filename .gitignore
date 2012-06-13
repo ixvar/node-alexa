@@ -1,0 +1,7 @@
+# Usual suspects
+*~
+*.bak
+*.orig
+
+# NodeJS specific
+node_modules
