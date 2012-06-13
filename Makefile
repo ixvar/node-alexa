@@ -1,7 +1,8 @@
 # Makefile for node-alexa
 
 test:
-	@./node_modules/.bin/mocha \
+	@PATH=./node_modules/.bin:$(PATH) \
+	mocha \
 	--reporter spec \
 	--ui bdd \
 	--ignore-leaks
