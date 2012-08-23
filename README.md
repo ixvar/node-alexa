@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ixvar/node-alexa.png)](http://travis-ci.org/ixvar/node-alexa)
 Amazon Alexa Web Information Service module
 ===========================================
 
